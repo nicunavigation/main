@@ -2,13 +2,13 @@
 
 **Effective Date:** 7/28/2025
 
-NICU Navigation developed the **GIR Calculator** app to support clinical care in neonatal intensive care settings. This app is intended for use by healthcare professionals and is provided *as is*.
+NICU Navigation is developing app to support clinical care in neonatal intensive care settings. The apps are intended for use by healthcare professionals and is provided *as is*.
 
 ---
 
 ## Data Collection and Use
 
-The GIR Calculator app does **not collect, store, or share any personal or sensitive user data**.
+The apps do **not collect, store, or share any personal or sensitive user data**.
 
 Specifically:
 
