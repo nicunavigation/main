@@ -13,7 +13,7 @@ The apps do **not collect, store, or share any personal or sensitive user data**
 Specifically:
 
 - No identifying user information (e.g., name, email, phone number) is collected.
-- No health data is collected or stored.
+- No health data is collected by organization.  Any data saved is stored locally and not shared.
 - No location, camera, microphone, or other device permissions are requested.
 - No internet connection is required or used.
 - A local setting is used to remember if the user has accepted the disclaimer; this is stored privately on the user’s device and is not shared.
